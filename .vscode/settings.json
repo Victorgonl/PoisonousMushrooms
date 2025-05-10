@@ -1,0 +1,22 @@
+{
+    "python.defaultInterpreterPath": "./.micromamba/envs/poisonous_mushrooms/bin/python",
+    "debug.inlineValues": "off",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always"
+        },
+    },
+    "notebook.codeActionsOnSave": {
+        "notebook.source.organizeImports": "explicit",
+    },
+    "notebook.formatOnSave.enabled": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+}

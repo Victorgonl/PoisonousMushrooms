@@ -1,0 +1,11 @@
+# Micromamba environment file
+# https://marketplace.visualstudio.com/items?itemName=corker.vscode-micromamba
+
+name: poisonous_mushrooms
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - ipykernel
