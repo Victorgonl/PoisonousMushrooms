@@ -15,8 +15,4 @@
     "editor.formatOnSaveMode": "file",
     "editor.formatOnSave": true,
     "editor.formatOnType": false,
-    "isort.args": [
-        "--profile",
-        "black"
-    ],
 }

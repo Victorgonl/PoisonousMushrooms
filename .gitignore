@@ -1,2 +1,4 @@
+.ignore
+
 data/*
 !data/README.md
