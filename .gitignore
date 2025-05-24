@@ -1,4 +1,6 @@
 .ignore
 
 data/*
-!data/README.md
+data_preprocessed/*
+
+!*/README.md

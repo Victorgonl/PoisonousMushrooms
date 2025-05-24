@@ -15,4 +15,18 @@
     "editor.formatOnSaveMode": "file",
     "editor.formatOnSave": true,
     "editor.formatOnType": false,
+    "material-icon-theme.folders.customClones": [
+        {
+            "name": "data_preprocessed",
+            "base": "database",
+            "color": "red-500",
+            "lightColor": "red-700",
+            "folderNames": [
+                "data_preprocessed"
+            ],
+            "rootFolderNames": [
+                "data_preprocessed"
+            ]
+        },
+    ]
 }
