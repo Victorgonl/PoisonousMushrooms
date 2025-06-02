@@ -12,22 +12,13 @@
         "notebook.source.organizeImports": "explicit",
     },
     "notebook.formatOnSave.enabled": true,
+    "notebook.output.textLineLimit": 50,
     "editor.formatOnSaveMode": "file",
     "editor.formatOnSave": true,
     "editor.formatOnType": false,
-    "material-icon-theme.folders.customClones": [
-        {
-            "name": "data_preprocessed",
-            "base": "database",
-            "color": "red-500",
-            "lightColor": "red-700",
-            "folderNames": [
-                "data_preprocessed"
-            ],
-            "rootFolderNames": [
-                "data_preprocessed"
-            ]
-        },
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "black-formatter.args": [
+        "--line-length",
+        "128"
     ],
-    "jupyter.notebookFileRoot": "${workspaceFolder}"
 }
