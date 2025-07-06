@@ -1,7 +1,14 @@
 .ignore
 
+# python
+__pycache__
+
+# project
 data/*
 data_preprocessed/*
 utils/*
-
 !*/README.md
+
+# catboost
+catboost_info
+artifacts

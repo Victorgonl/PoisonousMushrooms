@@ -1,0 +1,2 @@
+,accuracy,precision,recall,f1,mcc,training_time,testing_time,hyperparameters
+Hold-Out Experiment,0.9910729754181986,0.9909058788797418,0.9910871399465859,0.9909955198083626,0.9819930020973011,219.85830664634705,1.4614896774291992,"{'iterations': 1000, 'learning_rate': 0.0731971947212699, 'depth': 12, 'l2_leaf_reg': 7, 'border_count': 64}"

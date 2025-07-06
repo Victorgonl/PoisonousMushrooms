@@ -21,4 +21,6 @@
         "--line-length",
         "128"
     ],
+    "todo-tree.tree.showCountsInTree": true,
+    "todo-tree.tree.showBadges": true,
 }

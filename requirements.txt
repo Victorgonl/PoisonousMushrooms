@@ -1,0 +1,16 @@
+ipykernel
+nbformat
+numpy 
+pandas
+matplotlib 
+seaborn 
+scikit-learn 
+scipy 
+tqdm
+catboost
+plotly
+jinja2
+
+# patterns mining
+mlxtend  
+prefixspan
