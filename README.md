@@ -1,17 +1,14 @@
 # Poisonous Mushrooms
 
-Victor G. Lima
+*Victor G. Lima*
 
----
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="./figs/mushroom_features.png" alt="Mushroom features" height="350"><br>
-      <small>Mushroom features.</small>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./figs/mushroom_features.png" alt="Mushroom features" width="200"/>
+  <br>
+  <small><i>Mushroom features.</i></small>
+</p>
+
 
 ## Notebooks
 
