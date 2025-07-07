@@ -21,3 +21,5 @@
 ## Docs
 
 - <a href="./docs/article.pdf">Article</a>
+
+- <a href="./docs/slides.pdf">Slides</a>
